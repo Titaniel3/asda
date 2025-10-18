@@ -32,3 +32,19 @@ I chose this data set specifically, because it is a rather small data set (there
 
 **Source**: https://www.kaggle.com/datasets/datasnaek/chess/data
 
+## Dataset 2: Big five Personality Test
+**Description:** This is a Dataset containing 1,015.342 questionnaire answers about the *Big Five Personality Test*. This test measures five core traits that describe human personality:
+1. Openness
+2. Conscientiousness
+3. Extraversion
+4. Agreeableness
+5. Neuroticism
+It works by asking people to rate how much they agree with different items on a five point scale (1 = Disagree, 5 = Agree).
+The Dataset consists of 110 variables, always ten items for each personality trait (10 * 5 = 50), the time spent on each item (10 * 5 = 50) and ten descriptive variables like country of the participant.
+
+**Why did I choose this Dataset?**
+Appart from chess, I have had a passion for psychology for a long time. This passion was one of the reasons why I studied at Leuphana (I really liked the minor in *Business Psychology*) in the first place! I read a lot of books about personality traits and how they effect other variables like success or happiness. The Big Five Personality Trait might be the most famous try of differentiating between different personalities. I am not 100% sure if one should completely trust the results of an individual test but it can be useful for finding patterns across a large sample. 
+I specifically chose this Dataset because it contains a very large amount of participants (over 1 million) and therefore can be used as a good starting point for further research. For example, I would be interested whether one could find patterns between the results of the Personality Test and Business success (I guess you now see my interest for Business Psychology). Maybe the country of the participant (developed vs. developing country) may also play a role in this?
+
+**Source:** https://www.kaggle.com/datasets/tunguz/big-five-personality-test/data
+
