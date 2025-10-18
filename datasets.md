@@ -8,7 +8,7 @@ Name: Daniel Lichtmannecker
 Course: Applied Statistical Data Science  
 Date: October 2025
 
-## Dateset 1: Online Chess Games
+## Dataset 1: Online Chess Games
 **Description:** This is a Dataset containing 20,058 chess games from the Online Chess-Site Lichess.org. The Dataset includes the following variables: 
 - Game ID
 - Rated (T/F)
