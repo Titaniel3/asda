@@ -35,9 +35,13 @@ I chose this data set specifically, because it is a rather small data set (there
 ## Dataset 2: Big five Personality Test
 **Description:** This is a Dataset containing 1,015.342 questionnaire answers about the *Big Five Personality Test*. This test measures five core traits that describe human personality:
 **1. Openness**
+
 **2. Conscientiousness**
+
 **3. Extraversion**
+
 **4. Agreeableness**
+
 **5. Neuroticism**
 
 It works by asking people to rate how much they agree with different items on a five point scale (1 = Disagree, 5 = Agree).
