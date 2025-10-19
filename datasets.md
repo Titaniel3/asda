@@ -4,6 +4,9 @@
 This repository contains my work for the first homework of the Applied Statistical Data Science course. The task was to find three Datasets which reflect my personal interests.
 
 ## Dataset 1: Online Chess Games
+![Here you see me "in action"](https://images.noz-mhn.de/img/49352901/crop/cbase_16_9-w910-h511/77291578/2034171337/06ad6f70a9140a6a.webp)
+
+
 **Description:** 
 This is a Dataset containing 20,058 chess games from the Online Chess-Site Lichess.org. The Dataset includes the following variables: 
 - Game ID
