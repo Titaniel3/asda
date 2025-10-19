@@ -1,7 +1,7 @@
 # Applied Statistical Data Science – Homework Week 1
 
 ## About
-This repository contains my work for the first homework of the Applied Statistical Data Science course.
+This repository contains my work for the first homework of the Applied Statistical Data Science course. The task was to find three Datasets which reflect my personal interests.
 
 ## Dataset 1: Online Chess Games
 **Description:** 
@@ -54,10 +54,10 @@ I specifically chose this Dataset because it contains a very large amount of par
 
 ## Dataset 3: Game of Thrones Social Network
 **Description:** 
-This Dataset is a bit different than the two above. It contains 107 different characters and 353 weighted relationships between those characters from the *Game of Thrones* Universe (to be precise, from the Book *A Storm of Swords*, which is the third novel in the series *A Song of Ice and Fire*, which later became the Game of Thrones series). The weighted relationships were calculated based on how many times two character's names appeared within 15 words of one another in the novel. So the idea of the Dataset is to analyze the rather complex social netword in the Game of Thrones universe and see which characters are most important from a social network perspective. 
+This Dataset is a bit different than the two above. It contains 107 different characters and 353 weighted relationships between those characters from the *Game of Thrones* Universe (to be precise, from the Book *A Storm of Swords*, which is the third novel in the series *A Song of Ice and Fire*, which later became the Game of Thrones series). The weighted relationships were calculated based on how many times two character's names appeared within 15 words of one another in the novel. So the idea of the Dataset is to analyze the rather complex social network in the Game of Thrones universe and see which characters are most important from a social network perspective. 
 
 **Why did I choose this Dataset?** 
-As you may already be able to tell, I am somewhat of a Geek. One topic I love especially is Game of Thrones (except the last season, but that is a different story). So when I chose the seminar "*Social Network Analysis*" as a seminar during my bachelor studies, I immediately knew which Dataset I wanted to analyze: Exactly this one!
-During this seminar, I learned some basic social network analysis techniques and was able to visualize the nodes and the edges using gephi and also calculate some basic centrality measures like weighted degree centrality or the Page rank of each character. Then I gave points for the "Best Performers" for each centrality measure and added them up to find out who is the real king of the Game of Thrones social network! If you know Game of Thrones well, you might be able to guess, who the winner was (Hint: The winner was never the actual king or queen). I won't tell you the solution here, so if you are interested, feel free to ask me about it :)
+As you may already be able to tell, I am somewhat of a Geek. One topic I especially love is Game of Thrones (except the last season, but that is a different story). So when I chose the seminar "*Social Network Analysis*" during my bachelor studies, I immediately knew which Dataset I wanted to analyze: Exactly this one!
+During this seminar, I learned some basic social network analysis techniques and was able to visualize the nodes and the edges using gephi and also calculate some basic centrality measures like weighted degree centrality or the Page rank of each character. Then I gave points for the "best performers" for each centrality measure and added them up to find out the real king of the Game of Thrones social network! If you know Game of Thrones well you might be able to guess who the winner was (Hint: The winner was never the actual king or queen). I won't tell you the solution here, so if you are interested, feel free to ask me about it :)
 
 **Source:** https://github.com/melaniewalsh/sample-social-network-datasets/tree/master/sample-datasets/game-of-thrones
