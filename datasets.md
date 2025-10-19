@@ -4,8 +4,9 @@
 This repository contains my work for the first homework of the Applied Statistical Data Science course. The task was to find three Datasets which reflect my personal interests.
 
 ## Dataset 1: Online Chess Games
-![Here you see me "in action"](https://images.noz-mhn.de/img/49352901/crop/cbase_16_9-w910-h511/77291578/2034171337/06ad6f70a9140a6a.webp)
+![Chess is a beautiful game](https://www.chessmaze.co.uk/cdn/shop/articles/1000011652.png?v=1692824480)
 
+**Image Source**: https://www.chessmaze.co.uk/cdn/shop/articles/1000011652.png?v=1692824480
 
 **Description:** 
 This is a Dataset containing 20,058 chess games from the Online Chess-Site Lichess.org. The Dataset includes the following variables: 
@@ -33,6 +34,10 @@ I chose this data set specifically, because it is a rather small data set (there
 **Source**: https://www.kaggle.com/datasets/datasnaek/chess/data
 
 ## Dataset 2: Big five Personality Test
+![Psychology is super interesting](https://i.pinimg.com/474x/4e/c4/34/4ec434692ba56d63a36e068b7baf424c.jpg)
+
+**Image Source**: https://i.pinimg.com/474x/4e/c4/34/4ec434692ba56d63a36e068b7baf424c.jpg
+
 **Description:** 
 This is a Dataset containing 1,015.342 questionnaire answers about the *Big Five Personality Test*. This test measures five core traits that describe human personality:
 
@@ -56,6 +61,11 @@ I specifically chose this Dataset because it contains a very large amount of par
 **Source:** https://www.kaggle.com/datasets/tunguz/big-five-personality-test/data
 
 ## Dataset 3: Game of Thrones Social Network
+![Arguably the best series ever?](https://www.sky.de/static/img/serienhighlights/sky_16-03_gameofthrones-uebersicht_sub_s.jpg)
+
+
+**Image Source**: https://www.sky.de/static/img/serienhighlights/sky_16-03_gameofthrones-uebersicht_sub_s.jpg
+
 **Description:** 
 This Dataset is a bit different than the two above. It contains 107 different characters and 353 weighted relationships between those characters from the *Game of Thrones* Universe (to be precise, from the Book *A Storm of Swords*, which is the third novel in the series *A Song of Ice and Fire*, which later became the Game of Thrones series). The weighted relationships were calculated based on how many times two character's names appeared within 15 words of one another in the novel. So the idea of the Dataset is to analyze the rather complex social network in the Game of Thrones universe and see which characters are most important from a social network perspective. 
 
