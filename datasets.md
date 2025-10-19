@@ -5,6 +5,7 @@ This repository contains my work for the first homework of the Applied Statistic
 
 ## Author
 Name: Daniel Lichtmannecker
+
 Course: Applied Statistical Data Science  
 Date: October 2025
 
